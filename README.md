@@ -22,9 +22,9 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="flex">
-<a href="https://github.com/daudi44">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=daudi44&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=daudi44&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/AvanteCaballe">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AvanteCaballe&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AvanteCaballe&layout=compact&langs_count=8&theme=algolia"/>
 </a>
   <p align="flex"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AvanteCaballe&theme=algolia" alt="AvanteCaballe"/></p>
 </p>
